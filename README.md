@@ -4,7 +4,8 @@
 
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
-## What is GoGoCode?
+
+## What 基调is GoGoCode?
 
 [中文 README](README-cn.md)
 
